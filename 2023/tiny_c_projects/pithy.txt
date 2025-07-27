@@ -1,0 +1,5 @@
+Once upon a time, there was a text file.
+
+It was not a long text file, and it contained very little of any value.
+
+One day there was a very long line and it exceeded 256 characters. That is a super long line! Oh well, maybe there will be something of value in this text file after all: A segfault-causing line of text which is greater than 256 chars long. Amazing! Oh well, I guess this wasn't quite long enough, so here's a longer line. Are we at 256 chars? My vim is configured to be so minimal that I can't even find this info out at a glance. 😝
